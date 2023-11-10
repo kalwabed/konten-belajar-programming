@@ -1,0 +1,18 @@
+repo_name: kalwabed/konten-belajar-programming
+report_id: 856689a88a301c984ad2b6cc73f42c43
+repo_type: Public
+timestamp: '2023-11-10T13:02:03+00:00'
+requested_by: adisetiawan
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
